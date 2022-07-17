@@ -1,4 +1,6 @@
 Description (In Progress)
+...
+...
 
 
 Optimisation in progress (1 frame is 1 itaration of the ADAM optimiser):
