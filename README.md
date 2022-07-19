@@ -33,4 +33,3 @@ Relative dielectric permeability $\varepsilon_r(x, y)$ and field $H_z(x, y)$ for
 ## Sources
 - [Forward-Mode Differentiation of Maxwell's Equations](https://arxiv.org/abs/1908.10507)\
 - [Boosting the efficiency of Smith–Purcell radiators using nanophotonic inverse design](https://pubs.acs.org/doi/10.1021/acsphotonics.1c01687)
-- 
