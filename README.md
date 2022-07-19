@@ -28,7 +28,7 @@ Optimisation in progress (1 frame is 1 itaration of the ADAM optimiser):\
 ![example_Si_optimization4.gif](https://github.com/dmytrokovych/iSPR-inverse-design/blob/main/gifs/example_Si_optimization4.gif)
 
 Relative dielectric permeability $\varepsilon_r(x, y)$ and field $H_z(x, y)$ for four periods of optimal silicon gratings obtained by inverse design. Simulation of the $H_z$ field at a frequency of $\nu = 424 \mathrm{THz}$:\
-![example_Si_optimization4.gif](https://github.com/dmytrokovych/iSPR-inverse-design/blob/main/gifs/MS_example.png)
+![example_Si_optimization4.gif](https://github.com/dmytrokovych/iSPR-inverse-design/blob/main/gifs/MT_example.png)
 
 ## Sources
 - [Forward-Mode Differentiation of Maxwell's Equations](https://arxiv.org/abs/1908.10507)\
